@@ -1,0 +1,25 @@
+{
+    "name": "scotch-scraping-node",
+    "version": "1.0.0",
+    "description": "Code for scraping author profiles from Scotch(https://scotch.io).",
+    "author": "Glad Chinda <gladxeqs@gmail.com>",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "axios": "^0.18.0",
+        "cheerio": "^1.0.0-rc.2",
+        "express": "^4.16.3",
+        "lodash": "^4.17.5",
+        "morgan": "^1.9.0"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": "8.9.4",
+        "npm": "5.6.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gladchinda/scotch-scraping-node.git"
+    }
+}
