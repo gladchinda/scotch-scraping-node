@@ -1,7 +1,7 @@
 {
     "name": "scotch-scraping-node",
     "version": "1.0.0",
-    "description": "Code for scraping author profiles from Scotch(https://scotch.io).",
+    "description": "Simple app for scraping author profiles from Scotch.io - https://scotch.io.",
     "author": "Glad Chinda <gladxeqs@gmail.com>",
     "scripts": {
         "start": "node server.js"
