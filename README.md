@@ -1,4 +1,7 @@
 # scotch-scraping-node
+
+**You can checkout the complete tutorial on Scotch: [Web Scraping Scotch: The Node Way](https://scotch.io/tutorials/web-scraping-scotch-the-node-way).**<br/><br/>
+
 Simple app for scraping author profiles from [Scotch.io](https://scotch.io). To get started, follow the following steps:
 <br/><br/>
 
